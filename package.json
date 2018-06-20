@@ -1,0 +1,15 @@
+{
+  "name": "dom1",
+  "version": "1.0.0",
+  "description": "Domaci 1 - Studenti",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J Zarko",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "yargs": "^11.0.0"
+  }
+}
